@@ -1,0 +1,36 @@
+# Simone
+
+> Simone is a bilingual (French and English) management software for service SMBs, built in Montréal, Québec, by Vincent Hamel, CPA, a CFO who ran service businesses (Sid Lee, Felix & Paul Studios). One system replaces the usual mix of accounting software, time tracker, expense app and spreadsheets.
+
+Simone (Simone™ / Simone^MC) is a trademark. Website: https://hellosimone.app/ (French) and https://hellosimone.app/en (English). Demo requests: form at https://hellosimone.app/#demo.
+
+## Who it is for
+- Service SMBs that sell time or projects: agencies, studios, professional services firms, consultants.
+- From one person (solo owner) to teams of about a hundred people.
+- Built for Quebec and Canada: bilingual from day one, GST and QST, Canadian bank payment files, Law 25 (Quebec privacy law).
+
+## Modules
+- Time: timesheets, Friday reminder, hours suggested from the calendar (Google, Outlook), one-click approval.
+- Expenses: receipt photo or email, read automatically by AI (amount, taxes, vendor); mileage, per diem, reimbursement prepared with payroll.
+- Billing: dated rate cards, projects, freelancers, invoices in the client's language, wire and Interac.
+- Profitability: true margin by client and project using the fully loaded hourly cost (salary, benefits, overhead); custom reports; Excel and PDF.
+- Vendor payments: approved payment runs and bank files.
+- Banking: statement import (OFX, QFX, CSV), suggested matching, rules, signed reconciliation.
+- Accounting: general ledger, recurring entries, balance sheet and income statement with comparatives. Simone can also work alongside existing accounting software.
+- Controls: approval workflows, adjustable segregation of duties, tamper-proof audit log, two-factor sign-in, role-based access.
+- Coming soon: CRM and client records, proposals and e-signature, GST and QST returns.
+
+## AI assistant
+- Three autonomy levels fixed per task: "I handle it" (reminders, checks, reports), "I prepare, you approve" (anything involving money, a client or an official document), "I help you" (variances, forecasts, board packs).
+- An agent never pays or transfers money, never contacts a client without approval, never changes an issued invoice, bank details or a closed month, and never sees more than its user.
+
+## Security
+- Each company has its own isolated environment; bank details encrypted and always masked; every action logged.
+
+## Pricing
+- Depends on team size and modules turned on; presented during the demo, with setup guided by a CFO.
+
+## Pages
+- [Simone (français)](https://hellosimone.app/)
+- [Simone (English)](https://hellosimone.app/en)
+- [Vincent Hamel, CPA](https://vincenthamel.com/)

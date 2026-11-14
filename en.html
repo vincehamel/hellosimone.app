@@ -157,5 +157,6 @@ busy=!0;b.disabled=!0;say(t("Envoi en cours…","Sending…"),!1);
 fetch("https://api.web3forms.com/submit",{method:"POST",headers:{"Content-Type":"application/json",Accept:"application/json"},body:JSON.stringify({access_key:"0f991c49-a268-4c77-bc40-a5a13c97e009",subject:"hellosimone.app · "+f.size.value,from_name:"hellosimone.app",name:f.name.value.trim(),email:f.email.value.trim(),company:f.company.value.trim(),taille:f.size.value,message:f.message.value.trim(),language:en?"English":"Français",botcheck:!1})})
 .then(function(r){return r.json()}).then(function(r){if(!r||!r.success)throw 0;f.reset();say(t("Merci! Votre demande est envoyée. Je vous réponds rapidement.","Thank you! Your request has been sent. I will get back to you shortly."),!1)})
 .catch(function(){say(t("L'envoi n'a pas fonctionné. Réessayez dans un moment.","The message could not be sent. Please try again in a moment."),!0)}).then(function(){busy=!1;b.disabled=!1})})}();</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "a85ac1d59c2b47599ea63ec58b259add"}'></script>
 </body>
 </html>
